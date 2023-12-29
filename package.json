@@ -79,7 +79,7 @@
     "test": "echo \"Error: no tests specified\" && exit 1"
   },
   "engines": {
-    "node": ">=14.19.1 <=18.x.x",
+    "node": ">=14.19.1 <=21.x.x",
     "npm": ">=6.0.0"
   },
   "license": "MIT"
